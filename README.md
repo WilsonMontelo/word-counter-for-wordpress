@@ -1,2 +1,1 @@
-# word-counter-for-wordpress
-
+# WORD COUNTER FOR WORDPRESS
